@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+
+This is Su. Learning github guide.
